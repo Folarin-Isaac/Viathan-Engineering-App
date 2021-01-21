@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Viathan Engineering App</string>
+
+    <string name="welcome"> Welcome to </string>
+    <string name="viathan"> Viathan </string>
+    <string name="engineering"> Engineering </string>
+    <string name="sign_in"> Sign In </string>
+    <string name="sign_up_text"> Don\'t have an account? </string>
+    <string name="sign_up"> Sign Up </string>
+</resources>
